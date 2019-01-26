@@ -34,6 +34,8 @@
 				<form:option value="4" label="Australia" />
 				<form:option value="5" label="Canada" />
 				<form:option value="6" label="NewZealand" />
+				<form:option value="7" label="Switzerland" />
+				<form:option value="8" label="UAE" />
 			</form:select></td>
 		</tr>
 		<tr>
